@@ -1,0 +1,79 @@
+div{
+    list-style-type:none;
+    text-decoration: none;
+    
+
+}
+
+ul{
+    
+    font-style: calibri;
+    font-size: 20px;
+    text-align: center;
+}
+
+li{
+    display: inline;
+    float: left;
+    
+
+}
+
+li a{
+    display: block;
+    background-color: whitesmoke;
+    color:black;
+    padding: 20px 10px;
+    font-style: calibri;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100px;
+  
+}
+
+li a:hover{
+    background-color: rgb(97, 97, 130);
+
+}
+
+.fa{
+    padding:20px;
+    text-decoration: none;
+    text-align: center;
+    width: 30px;
+}
+
+.fa-facebook{
+    background-color: white;
+    padding: 10px 10px;
+    margin: 10px 10px;
+
+}
+
+.fa-twitter{
+    background-color: white;
+    padding: 10px 10px;
+    margin: 10px 10px;
+
+}
+
+.fa-linkedin{
+    background-color: white;
+    padding: 10px 10px;
+    margin: 10px 10px;
+
+}
+
+.photo{
+    max-width: 100%;
+    height: 50px;
+    padding:20px;
+    opacity: 0.5;
+
+}
+
+.top-left {
+    position: absolute;
+    top: 18px;
+    left: 56px;
+  }
